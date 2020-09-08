@@ -1,0 +1,6 @@
+git config user.email "german.bobkov@eava.ee"
+git status
+git add punanefailinimi1 punanefailinimi2
+git status
+git commit -m "test1"
+git push
